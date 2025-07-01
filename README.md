@@ -23,7 +23,7 @@ Second Highest Doctor: Doctor ID D005 handled 34% of total appointments
 📷 Screenshots
 Dashboard Overview	Doctor-wise Analysis
 
-
+hospital_ss.png
 
 📂 How to Use
 Download the Excel file (Hospital_Management_Dashboard.xlsx) from this repository.
